@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(204, 180, 164);
+}
+
+h1 {
+  color: rgb(72, 2, 138);
+  font-size: 2em;
+  margin-bottom: 20px;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+p {
+  font-size: x-large;
+  text-align: justify;
+}
+
+li {
+  margin-bottom: 20px
+}
+
+img {
+  border-radius: 10px;
+}
+
+table {
+  list-style:disc;
+  font-size: 50px;
+  color: rgb(139, 26, 22);
+  width: fit-content;
+}
+
+a:hover{
+  color: brown;
+}
